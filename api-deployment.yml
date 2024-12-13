@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: api-gateway
-          image: andersonalban/api-gateway:1.36
+          image: andersonalban/api-gateway:1.42
 
           ports:
             - containerPort: 3000
